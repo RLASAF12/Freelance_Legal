@@ -17,7 +17,7 @@ Protect your independence with AI-powered contracts, invoice protection, and sim
 Freelance Legal AI is built specifically for independent professionals. It simplifies the complex world of service agreements, intellectual property rights, and payment terms, ensuring you get paid and protected for every project.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1454165833762-0265129b0d31?w=800&h=300&fit=crop&crop=top" alt="Freelance Legal AI Interface" width="600">
+  <img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&h=300&fit=crop&crop=top" alt="Freelance Legal AI Interface" width="600">
 </p>
 
 ## Features
